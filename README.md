@@ -1,8 +1,8 @@
 # ClientMod-Api
 
 ## Required
-- **SourceMod 1.8** or later
-- **CS:S v34 server** with ``4044 build for windows`` or ``4100 build for linux``
+- **SourceMod 1.9** or later
+- **CS:S v34 server** with ``4100 build for linux`` & [improved-srcds-v34](https://github.com/hy1ex/improved-srcds-v34)
 
 ## Info
 | Plugin | Description |
@@ -44,6 +44,3 @@
 | **clientmod_team_ct** | ``The custom name of the Counter-Terrorist team in the scoreboard, logs and change team message.`` |
 | **clientmod_client_version_min** | ``The minimum version of the ClientMod 2.0 to enter the server.``<br/>``Must not be lower than 2.0.8!`` |
 | **clientmod_client_version_min_message** | ``Message for kicked clients if ClientMod 2.0 is out of date.`` |
-
-
-
